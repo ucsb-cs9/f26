@@ -87,7 +87,7 @@ In general, homeworks will be assigned periodically throughout the quarter and s
 There will be labs assigned throughout the quarter. These labs are autograded and your score is based on Gradescope's recorded score. Lab sections and office hours are available to ask questions and seek assistance. Please be sure to check the due dates for all assignments on the course page and calendar.
 
 * We will be using iClicker in this course during lectures to check our understanding of the material covered. You must attend and be present in the lectures to participate, and can expect to answer a few poll questions in each lecture.
-  * We will **drop three** iClicker points.
+  * We will **drop four** iClicker points.
   * For any technical issues with iClicker during lecture, take a screenshot of the error (showing the current time), and you must speak to the instructor in-person after the lecture ends.
 * **Two of the lowest homework scores will be dropped.** Late homework submissions will not be accepted. However, even if you know you will not be able to submit a homework on time, I highly encourage you to complete it anyways since the homeworks will help prepare you for the exams.
 * No lab assignment grades will be dropped.
