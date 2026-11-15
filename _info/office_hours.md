@@ -25,7 +25,7 @@ Adyant Kamdar
 
 Max Liu
 * Lab Sections (11am, 2pm)
-* Fridays 9am - 11am (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Thursdays 12pm - 2pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Zach Miller
 * Lab Sections (9am, 10am)
